@@ -1,0 +1,83 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "0f1081d7995c916aeda7517ecd08c3c959380832.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/0f1081d7995c916aeda7517ecd08c3c959380832.js",
+      "size": 804682,
+      "hash": "0f1081d7995c916aeda7517ecd08c3c959380832"
+    },
+    {
+      "path": "b483a804232ab6ab9baaed13f96f585b83584baa.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/b483a804232ab6ab9baaed13f96f585b83584baa.css?meteor_css_resource=true",
+      "size": 42365,
+      "hash": "b483a804232ab6ab9baaed13f96f585b83584baa"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.eot",
+      "size": 68875,
+      "hash": "b3c2f08e73320135b69c23a3908b87a12053a2f6"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.svg",
+      "size": 355981,
+      "hash": "2b3c8ba7008cc014d8fb37abc6f9f49aeda83824"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.ttf",
+      "size": 138204,
+      "hash": "27cf1f2ec59aece6938c7bb2feb0e287ea778ff9"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff",
+      "size": 81284,
+      "hash": "507970402e328b2baeb05bde73bf9ded4e2c3a2d"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff2",
+      "size": 64464,
+      "hash": "574ea2698c03ae9477db2ea3baf460ee32f1a7ea"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/FontAwesome.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/FontAwesome.otf",
+      "size": 106260,
+      "hash": "0112e96f327d413938d37c1693806f468ffdbace"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "71dbedab5db2e997b2bf7b184ee9d7cd563c8816"
+    }
+  ]
+}
